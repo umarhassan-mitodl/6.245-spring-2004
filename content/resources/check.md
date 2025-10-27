@@ -4,8 +4,6 @@ description: MATLAB File.
 file: /courses/6-245-multivariable-control-systems-spring-2004/2ac489ae3b8ddab775af9415c5e57d2b_check.m
 file_size: 203
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

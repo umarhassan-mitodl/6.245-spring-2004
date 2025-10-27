@@ -4,8 +4,6 @@ description: ''
 file: /courses/6-245-multivariable-control-systems-spring-2004/87da9583a1cec998bc57e08f9b827a3f_ps1_1b.mdl
 file_size: 14078
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
